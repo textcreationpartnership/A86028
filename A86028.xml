@@ -1,0 +1,218 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A glasse for vveak ey'd citizens: or a vindication of the pious, prudent and peaceable petition (to the Honorable the Lord Mayor, aldermen and commons in Common-Councel assembled) now in agitation, from the false aspersions and calumniations of a seditious pamphlet, intituled, A dialogue, &amp;c. By one that hath taken, and desires to keep his covenant. Very usefull for all that have subscribed the petition. Published according to order.</title>
+            <author>One That Hath Taken, and Desires to Keep His Covenant.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86028</idno>
+            <idno type="STC">Wing G844</idno>
+            <idno type="STC">Thomason E341_5</idno>
+            <idno type="STC">ESTC R200897</idno>
+            <idno type="EEBO-CITATION">99861519</idno>
+            <idno type="PROQUEST">99861519</idno>
+            <idno type="VID">113656</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86028)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113656)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 55:E341[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A glasse for vveak ey'd citizens: or a vindication of the pious, prudent and peaceable petition (to the Honorable the Lord Mayor, aldermen and commons in Common-Councel assembled) now in agitation, from the false aspersions and calumniations of a seditious pamphlet, intituled, A dialogue, &amp;c. By one that hath taken, and desires to keep his covenant. Very usefull for all that have subscribed the petition. Published according to order.</title>
+                  <author>One That Hath Taken, and Desires to Keep His Covenant.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Tho: Underhil, at the Bible in Woodstreet.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>Iune 19. 1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A reply to "A new petition" (Wing N697), which is by "A cordiall wel-willer to the peace of this famous city".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Cordiall Wel-Willer to the Peace of This Famous City. --  New petition.</term>
+               <term>Church of England --  Government --  Early works to 1800.</term>
+               <term>Church polity --  Early works to 1800.</term>
+               <term>Independent churches --  England.</term>
+               <term>Congregationalism --  Controversial literature --  Early works to 1800.</term>
+               <term>Dissenters, Religious --  England --  Early works to 1800.</term>
+               <term>Christian sects --  England --  Early works to 1800.</term>
+               <term>Great Britain --  Church history --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113656:1" rendition="simple:additions"/>
+            <p>A GLASSE FOR Weak ey'd Citizens:</p>
+            <p>OR A Vindication of the Pious, Prudent and Peaceable PETITION (To the Honorable the Lord Mayor, Aldermen and Commons in Common-Councel aſſembled) now in agitation, From the falſe Aſperſions and Calumniations of a Seditious Pamphlet, Intituled, <hi>A Dialogue, &amp;c.</hi>
+            </p>
+            <p>By one that hath taken, and deſires to keep his <hi>Covenant.</hi>
+            </p>
+            <p>Very uſeful for all that have Subſcribed the Petition.</p>
+            <p>Publiſhed according to Order.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Tho: Underhil,</hi> at the Bible in <hi>Woodſtreet.</hi> June 19. 1646.</p>
+         </div>
+      </front>
+      <body>
+         <div type="defense_of_petition">
+            <pb n="2" facs="tcp:113656:2"/>
+            <opener>
+               <salute>READER,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>S not the very reading of this Petition more then ſufficient to vindicate it from the Aſperſions and Calnmniations of this Pamphleter I have to deal with? I prethee tell me, I am in earneſt, Is it not a fair, ſober, moderate, plain, and peaceable Pe<g ref="char:EOLhyphen"/>tition? Can envy it ſelf quarrel with it? Can malice pick any thing that is ill out of it? If not, let this man bear his own doom, <hi>I think in my conſcience ſome men will finde fault with any thing.</hi> But let us hear what the man ſaith of it in his uſeleſſe Dialogue, it is a very dangerous Peti<g ref="char:EOLhyphen"/>tion, and there is more miſchief couch'd in it then you are aware of: <hi>A dangerous Petition,</hi> Reader, peruſe it again, it is worth thy reading twice over: In the Preface it commends the Honorable Court of Common-Councel for promoting the cauſe of God, gives them hearty thanks for what they have done for the Publike good, promiſing to adhere to them in all their juſt and legal proceedings, mark that, Reader, this is according to our <hi>Covenant,</hi> thanking them for endeavoring to remove the heavy preſſing grievances that lie upon us, in that free and neceſſary, yet humble and dutiful Remonſtrance: There is no danger in all this, unleſſe the man thinks it is dangerous to keep our <hi>Covenant,</hi> and all the danger is if we break our <hi>Covenant.</hi> Let's hear what the Petitionary part is, ſure the dangerouſneſſe of it lies there, and the miſchief is couch'd in that part; ſure they Petition for perſecution of the Saints, and for rigid and harſh uſage of peaceable well minded men; not ſo, or elſe to deſert the Parliament, and make a breach between them and the City, which God forbid: Not ſo neither. What is it then, where is the danger? Thus, they pray that Ho<g ref="char:EOLhyphen"/>norable Court to perſevere and go on; what, in any rude and pro<g ref="char:EOLhyphen"/>poſtrous or violent courſes? No, but in all pious and prudent means, to ſetle Religion, the Peace of the Kingdom, the Union of both Nations; In a word, the keeping of the <hi>Covenant,</hi> in which we are engaged unto God, the Righteous iudge of all the world. All this is in the Letter of our <hi>Covenant,</hi> and pray them ſtill to go on in their humble Addreſſes to the Parliament for a gracious Anſwer to their Remonſtrance, and for all other things that may put a happy period to our miſerable Diſtractions; and that them<g ref="char:EOLhyphen"/>ſelves would put in Execution what the Laws of the Kingdom en<g ref="char:EOLhyphen"/>abled
+<pb n="3" facs="tcp:113656:2"/>
+them to do for the ſafety of the City. Where the danger and miſchief is, I profeſſe Reader, I cannot tell: But lets hear what the man can ſay againſt this harmleſſe Petition, and againſt the Subſcribers of it: He confeſſeth, <hi>though honeſt and underſtand<g ref="char:EOLhyphen"/>ing men Subſcribe it,</hi> and that with mature deliberation, yet he can<g ref="char:EOLhyphen"/>not, becauſe <hi>he lacks reaſon to rule him in this action;</hi> and he is ſo Bru<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iſh to tell us, <hi>Honeſt men do Knaves Work,</hi> when they move regularly and honeſtly, and according to their <hi>Covenant,</hi> which bindes them heartily, ſincerely, and conſtantly to endeavor the Reformation of Religion, the total of this Petition. <hi>Knaves work,</hi> he means the honeſt man that wrote theſe <hi>Obſervations,</hi> whileſt he was writing them, and buſie in this work, was buſie in Knaves work, <hi>dixit,</hi> out of his own mouth he is condemned: He then talks of cunning ſtrains of deſperate Malignancy, and here he would have ſpoken ſenſe if his wit would have done it; but where is the Malignancy? Reader, it lies here, that whereas he was formerly a Ma<g ref="char:EOLhyphen"/>lignant that would not take the <hi>Covenant,</hi> now time hath had ſuch a turn, that to take the <hi>ſolemn League and Covenant,</hi> and to make con<g ref="char:EOLhyphen"/>ſcience in keeping of it, is Malignancy either in the <hi>Root</hi> or <hi>Branches.</hi> The next charge of this innocent Petition, is <hi>Sedition</hi> in the abſtract; But why Sedition? Let's hear his reaſon for it; for he ſaith of himſelf, he is reputed <hi>an underſtanding man, not raſh, but rational.</hi>
+            </p>
+            <p>Firſt, <hi>It may</hi> prove an utter breach betwixt the City and Par<g ref="char:EOLhyphen"/>liament: But Reader, this <hi>may be</hi> doth no make it Sedition; <hi>it may be,</hi> yea, it is like to be the means to unite and ſement the Par<g ref="char:EOLhyphen"/>liament and City together; and this is the end of the honeſt heart<g ref="char:EOLhyphen"/>ed Petitioners, and curſed be ſuch Deſigns that endeavor to divide them.</p>
+            <p>Secondly, it is Sedition, becauſe the City hath Petitioned and Remonſtrated to <hi>the Houſe,</hi> the Houſe ſhewed no teſtimony of their acceptance, but rather diſliked it: What means the man by the <hi>Houſe?</hi> This Houſe he calls the <hi>Parliament</hi> afterwards: Now if the Parliament doth diſlike the Petition, it muſt be the Houſes of Lords and Commons; but if neither of theſe have given teſtimony of diſlike, then the man ſpeaks falſly. The man cannot be igno<g ref="char:EOLhyphen"/>rant of the kinde acceptance and gracious Anſwer the Remon<g ref="char:EOLhyphen"/>ſtrance had from the Houſe of Peers; but by this mans Obſerva<g ref="char:EOLhyphen"/>tion they be not the <hi>Houſe,</hi> nor no part of the <hi>Parliament:</hi> See, here is Sedition indeed, to divide betwixt the Houſe of Lords and Commons, ſure this man is one of Mr. <hi>Lilburns</hi> Diſciples; and as
+<pb n="4" facs="tcp:113656:3"/>
+for the Houſe of Commons, they have not declared their diſlike to i<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>: <hi>An did not this a high breach of their Priviledge,</hi> to anticipate their ſenſe, their weighty occaſions permit them no<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> leaſure to con<g ref="char:EOLhyphen"/>ſider of it, they ſay they will in due time, and <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he City hopes to have a gr<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cious and real Anſwer from them alſo: For though this man can ſpeak of nothing elſe but <hi>Malignancy</hi> in the <hi>Root,</hi> and <hi>Se<g ref="char:EOLhyphen"/>dition,</hi> the Ci<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y is no<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> conſcious to it ſelf, but that in making the Remonſtrance the<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> diſcharged their du<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ies, and m<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rited blood for the Parliam<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nt: And thus this Famous City will do again, whileſt <hi>Se<g ref="char:EOLhyphen"/>ctaries</hi> deſert them, and endeavor to al<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er the Foundation and con<g ref="char:EOLhyphen"/>ſti<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uti<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n of the Government of this Kingdom, and no longer will cry up Parliaments, then they judge them ſavoring of them; and when they appear otherwiſe, then they can talk and write of cal<g ref="char:EOLhyphen"/>ling <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Parliament to an Accompt, and they that gave them the Power can take it from them: is not this <hi>Sedition,</hi> Friend? But the man would know, Why the Names of thoſe that Subſcribe not the Petition muſt be taken, and from what Authority? If any did do ſo, it was not Authority that commanded it, but it was their own diſcretion that put them on it, for theſe Reaſons:</p>
+            <p n="1">1. That we might know who they were that Subſcribed the laſt <hi>Independent Petition,</hi> becauſe we would fain know their Names, and can prove forgery, <hi>pro confeſſo,</hi> out of their own mouthes, that mens Names were to it, that never ſaw, nor at that time heard of their Petition.</p>
+            <p n="2">2. That we might make it appear that the Sectaries are not ſo numerous, ſo formicable as they would be eſteemed, they are very inconſiderable comparatively; and for all your witleſſe Obſerva<g ref="char:EOLhyphen"/>tions upon this Petition, in many Pariſhes the reſuſers are ſo few, that we can write their Number with one Figure, without the help of a cypher: Nay, the more hands will be got to it, becauſe they ſee Envy it ſelf cannot charge the Petition with any crime; but let the man make up a probable Tale if he can: He tells us, <hi>Malig<g ref="char:EOLhyphen"/>nant Miniſters come in and compound, and theſe may joyn with the Remonſtrants;</hi> ſo he meaneth, <hi>and theſe with the Scots may make a party, &amp;c.</hi> The man talks of <hi>Sedition,</hi> but no ſuch Sedition as this, to divide betwixt the City and the City, the City and the Parlia<g ref="char:EOLhyphen"/>ment, <hi>England</hi> with <hi>Scotland,</hi> one Houſe of Parliament with the other, and <hi>joyn theſe with Malignant Miniſters and Popiſh Prieſts:</hi> But take this Obſervation by the way, though all the Sects in the
+<pb n="5" facs="tcp:113656:3"/>
+Kingdom ſhelter themſelves under the wings of Independents, yet the plain hearted Petitioners ſeek not Malignants to make up their number; but though the Diſſenting party will not joyn with them in Petitioning what their own principles lead them to, yet we ſhall be willing to joyn with them for the removing of theſe or any other Grievances, which our <hi>Covenant</hi> obligeth us to. Then the man findes fault with our godly Miniſters that Exerciſe every morn<g ref="char:EOLhyphen"/>ing, <hi>Some out of conſcience, others byaſed with baſe ends have done,</hi> What? <hi>ſtirring up the Magiſtrate in their popular Sermons at</hi> Weſtminiſter <hi>and</hi> Pauls, (to what man) to keep their <hi>Covenant,</hi> to be zealous for God and for the Publike good? Let all that love God and the Peace of the Kingdoms, ſay, <hi>Gods bleſſing to their hearts.</hi> But in your next take this Obſervation, That there are no Miniſters in the City pray more hearaily for the Parliament and the Armies then they do, (and that all our Victories ſince our New Model hath been, and then begun when this Lecture was ſet up) I thought good to give him this hint, leſt his impudence leads him at laſt to blaſpheme an Ordinance of God, which God hath honored with incredible ſucceſſe. (To ſpeak a word to the particular charge) hearken Reader, the great charge that is laid upon this honeſt Pe<g ref="char:EOLhyphen"/>tition, what is it? they Petition for <hi>ſetlement of Religion,</hi> the letter <hi>of the Covenant;</hi> well, if this be Malignancy and Sedition, we will account it our honor to be ſo, and till we can be diſingaged from our <hi>Covenant,</hi> we will <hi>Petition, and Petition, and Petition again for the ſetling of Religion:</hi> This doubtleſſe is our duty, and cannot be any breach of Priviledge. Reader, take notice, <hi>no Word</hi> in the Petition can be excepted againſt but <hi>Religion,</hi> but this he faith is meant Pres<g ref="char:EOLhyphen"/>byterial Government; but who told him ſo? how came he to know the ſenſe of our Petition? we did not make any Malignants or Se<g ref="char:EOLhyphen"/>ctaries of our counſel (the man in ſtead of aſperſing hath vindicated the Petition) <hi>Religion</hi> is the worſt word in it: well then, to conclude, they that would have <hi>Religion</hi> (a word in our <hi>Covenant)</hi> ſetled and reformed they that would have a happy period put to all our preſ<g ref="char:EOLhyphen"/>ſing grievances, <hi>Ireland</hi> (poor bleeding dying <hi>Ireland)</hi> that lately hath received a mortal blow (if God prevent not) relieved, reco<g ref="char:EOLhyphen"/>vered; that would have Peace ſetled upon the Foundation of truth, and a firm Union betwixt us and our aſperſed Brethren of <hi>Scotland,</hi> &amp; an end of this uncivil Civil wars, come and ſubſcribe to this pious, prudent and peaceable Petition, and eccho back, <hi>We will all ſubſcribe.</hi>
+            </p>
+         </div>
+         <div type="list_of_observations">
+            <pb n="6" facs="tcp:113656:4"/>
+            <list>
+               <head>OBSERVATIONS Upon the uſeful <hi>Dialogue,</hi> &amp;c.</head>
+               <item>1. SEe the wicked policy of Sectaries, becauſe they fall from their own principles, and to ſhew their oppoſition to them that endeavor so keep the Covenant, they charge the Presbyterian party with Sedi<g ref="char:EOLhyphen"/>tion and compliancy with Malignants and Cavaliers, when as the truth of the charge lies at their own doors; guilty perſons accuſe firſt.</item>
+               <item>2. Look upon their impudence, condemning that as ſeditious, dan<g ref="char:EOLhyphen"/>gerous, deſtructive to the Parliament, &amp;c. which is the declared judge<g ref="char:EOLhyphen"/>ment (upon ſerious and mature conſideration) of a godly, grave, wiſe and ſober Court, the Repreſentative of this Famous C<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ty, without giving any pretence or ſhew of Reaſon for their graceleſſe, groundleſſe cenſures.</item>
+               <item>3. Obſerve their Sedition, in hatching jealouſies betwixt the Par<g ref="char:EOLhyphen"/>liament and Kingdom, preſenting this City (whoſe fame for their zeal to the Cauſe of God is gone through the Chriſtian world) as Sedi<g ref="char:EOLhyphen"/>tous, as joyning with Malignants, as deſerting the Parliament, and preſenting the Parliament as not regarding the City, nor minding their grievances, nor their own Engagements, in leaving takens of ho<g ref="char:EOLhyphen"/>nor upon this faithful City. The Lord rebuke this lying Spirit.</item>
+               <item>4. Behold them condemning the courſe of Petitioning, the way themſelves take, the only way left to the Subject to have their grie<g ref="char:EOLhyphen"/>vances removed; and that which is the indubitable right of the meaneſt Subject muſt be denied to the Common-Councel of <hi>London,</hi> humbly to Petition: Aſtoniſhing impudence, unparallel'd Malignancy, pre<g ref="char:EOLhyphen"/>found ignorance.</item>
+               <item>5. Reader, ſee ſonce again, for there is no end of baſeneſſe) they pretend love, Chriſtian ſweetneſſe, charitable opinions one towards another (take heed plain-hearted Chriſtians, here is a ſnare for you) when they talk and write of nothing that the Presbyterians do, but what is dangerous, miſchievons, ſeditious, increaſing the fire whileſt they call for water: I muſt leave them, they be too ſubtile for any plain-hearted man to deal with.</item>
+            </list>
+         </div>
+         <div type="petition">
+            <pb n="7" facs="tcp:113656:4"/>
+            <head>To the Right Honorable the Lord Mayor, The Right Worſhipful the Alder<g ref="char:EOLhyphen"/>men and Commons of the City of <hi>London</hi> in Common-Councel aſſembled.</head>
+            <head type="sub">The Humble PETITION of divers well<g ref="char:EOLhyphen"/>affected Citizens and Free-men of <hi>London,</hi> under the Juriſdiction of the Lord MAYOR.</head>
+            <opener>Sheweth:</opener>
+            <p>THat the great care and unceſſant pains of this Honor<g ref="char:EOLhyphen"/>able Court, for promoting the Cauſe of God is ſo eminently known, that your Petitioners conceive they ſhall be too much wanting to their own duty and ſafety, if they ſhould be backward in the thankful acknowledge<g ref="char:EOLhyphen"/>ment thereof; Wherefore, as they give you many hum<g ref="char:EOLhyphen"/>ble and hearty thanks for what you have already done in reference to the Publike good, ſo being deſirous, what in them lies, yet farther to ſtrengthen your hands to ſo glorious a work, they cannot but let you know their Re<g ref="char:EOLhyphen"/>ſolutions to adhere unto you in all your juſt and legal proceedings: Not doubting but the ſame good hand of God that hath hitherto been with you, will ſtill be upon you for good, while you endeavor in your places the eſta<g ref="char:EOLhyphen"/>bliſhment of Truth and Peace, and the removal of thoſe preſſing Grievances that lie upon us, as you have lately done in that <hi>free and neceſſary, yet Humble and Dutiful Re<g ref="char:EOLhyphen"/>monſtrance and Petition</hi> to the Honorable Houſes of Par<g ref="char:EOLhyphen"/>liament. And however there want not thoſe for the pre<g ref="char:EOLhyphen"/>ſent, who out of ſelf-reſpects calumniate your good In<g ref="char:EOLhyphen"/>tentions therein, yet being perſwaded that in very faith<g ref="char:EOLhyphen"/>fulneſſe
+<pb n="8" facs="tcp:113656:5"/>
+to the Publike you have done it, your Petitioners not only approve of it, but rejoyce in it, the rather, ſince they know no other orderly way for obtaining re<g ref="char:EOLhyphen"/>medy for their common Grievances, then by your Ad<g ref="char:EOLhyphen"/>dreſſes to the Parliament in their behalf.</p>
+            <p>
+               <hi>Your Petitioners therefore humbly pray, That this Ho<g ref="char:EOLhyphen"/>norable Court will be pleaſed ſtill to perſevere, and coura<g ref="char:EOLhyphen"/>giouſly to go on in and by all pious and prudent means, en<g ref="char:EOLhyphen"/>deavoring the ſpeedy ſettlement of Religion, the Peace of the Kingdom, the Union of both Nations, the ſafety and welfare of this City, and in a word, the performance of that Covenant wherein we are ſol<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mnly ingaged to God the Righteous Judge of all the wo<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ld. In reference to all which good ends, your Petitioners further pray, That you would ſtill continue your humble Addreſſes to the Parlia<g ref="char:EOLhyphen"/>ment, not only for a gracious Anſwer to your ſaid late Re<g ref="char:EOLhyphen"/>monſtrance, but for all ſuch other things as ſhall neceſſarily conduce to putting a happy period to our preſent miſerable diſtractions; And that in the mean time you would put in execution, among your ſelves, ſo many bran<g ref="char:EOLhyphen"/>ches thereof as the Power wherewith (by the Laws of this Kingdom) you are already inveſted, will extend unto.</hi>
+            </p>
+            <closer>
+               <signed>And your Petitioners ſhall ever Pray, &amp;c.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
